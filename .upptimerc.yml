@@ -1,26 +1,128 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: live4dev
+repo: uptime
+assignees:
+  - nonamenix
+  
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: uptime.live4.dev
+    url: uptime.live4.dev
+  - name: example.com
+    url: https://example.com/
+    
+  #- name: test_notification
+  #  url: https://thissitedoesnotexist.koj.co/
+  # personal
+#  - name: nonamenix.ru
+#    url: https://nonamenix.ru
+#  - name: photopuma.ru
+#    url: https://photopuma.ru
+  - name: ritasneki.ru
+    url: https://ritasneki.ru/
+  - name: live4.dev
+    url: https://live4.dev
+  - name: cv.live4.dev
+    url: https://cv.live4.dev
+    
+  - name: navyfilms.tv
+    url: https://navyfilms.tv
+  - name: proships.ru
+    url: https://proships.ru
+  - name: blog.worldofwarships.com
+    url: https://blog.worldofwarships.com
+# ru
+  - name: worldofwarships.ru
+    url: https://worldofwarships.ru
+  - name: clans.worldofwarships.ru
+    url: https://clans.worldofwarships.ru
+  - name: armory.worldofwarships.ru
+    url: https://armory.worldofwarships.ru
+  - name: dockyard.worldofwarships.ru
+    url: https://dockyard.worldofwarships.ru
+  - name: forum.worldofwarships.ru
+    url: https://forum.worldofwarships.ru
+  - name: logbook.worldofwarships.ru
+    url: https://logbook.worldofwarships.ru
+  - name: friends.worldofwarships.ru
+    url: https://friends.worldofwarships.ru/ru/about
+  - name: warehouse.worldofwarships.ru
+    url: https://warehouse.worldofwarships.ru
+  - name: shop.worldofwarships.ru
+    url: https://shop.worldofwarships.ru/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
+# us
+  - name: worldofwarships.com
+    url: https://worldofwarships.com
+  - name: clans.worldofwarships.com
+    url: https://clans.worldofwarships.com
+  - name: armory.worldofwarships.com
+    url: https://armory.worldofwarships.com
+  - name: dockyard.worldofwarships.com
+    url: https://dockyard.worldofwarships.com
+  - name: forum.worldofwarships.com
+    url: https://forum.worldofwarships.com
+  - name: logbook.worldofwarships.com
+    url: https://logbook.worldofwarships.com
+  - name: friends.worldofwarships.com
+    url: https://friends.worldofwarships.com/en/about
+  - name: warehouse.worldofwarships.com
+    url: https://warehouse.worldofwarships.com
+  - name: shop.worldofwarships.com
+    url: https://shop.worldofwarships.com/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
+# eu
+  - name: worldofwarships.eu
+    url: https://worldofwarships.eu
+  - name: clans.worldofwarships.eu
+    url: https://clans.worldofwarships.eu
+  - name: armory.worldofwarships.eu
+    url: https://armory.worldofwarships.eu
+  - name: dockyard.worldofwarships.eu
+    url: https://dockyard.worldofwarships.eu
+  - name: logbook.worldofwarships.eu
+    url: https://logbook.worldofwarships.eu
+  - name: friends.worldofwarships.eu
+    url: https://friends.worldofwarships.eu/en/about
+  - name: warehouse.worldofwarships.eu
+    url: https://warehouse.worldofwarships.eu
+  - name: shop.worldofwarships.eu
+    url: https://shop.worldofwarships.eu/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
+# asia
+  - name: worldofwarships.asia
+    url: https://worldofwarships.asia
+  - name: clans.worldofwarships.asia
+    url: https://clans.worldofwarships.asia
+  - name: armory.worldofwarships.asia
+    url: https://armory.worldofwarships.asia
+  - name: dockyard.worldofwarships.asia
+    url: https://dockyard.worldofwarships.asia
+  - name: forum.worldofwarships.asia
+    url: https://forum.worldofwarships.asia
+  - name: logbook.worldofwarships.asia
+    url: https://logbook.worldofwarships.asia
+  - name: friends.worldofwarships.asia
+    url: https://friends.worldofwarships.asia/en/about
+  - name: warehouse.worldofwarships.asia
+    url: https://warehouse.worldofwarships.asia
+  - name: shop.worldofwarships.asia
+    url: https://shop.worldofwarships.asia/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
+  
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: uptime.live4.dev
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime"
+  introMessage: yet another uptime page in internet. Powerred by [upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
