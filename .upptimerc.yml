@@ -8,16 +8,7 @@ assignees:
 sites:
   - name: uptime.live4.dev
     url: uptime.live4.dev
-  - name: example.com
-    url: https://example.com/404
-    
-  #- name: test_notification
-  #  url: https://thissitedoesnotexist.koj.co/
-  # personal
-#  - name: nonamenix.ru
-#    url: https://nonamenix.ru
-#  - name: photopuma.ru
-#    url: https://photopuma.ru
+
   - name: ritasneki.ru
     url: https://ritasneki.ru/
   - name: live4.dev
