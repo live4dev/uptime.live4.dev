@@ -9,7 +9,7 @@ sites:
   - name: uptime.live4.dev
     url: uptime.live4.dev
   - name: example.com
-    url: https://example.com/
+    url: https://example.com/404
     
   #- name: test_notification
   #  url: https://thissitedoesnotexist.koj.co/
