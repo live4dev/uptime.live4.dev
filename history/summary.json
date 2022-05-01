@@ -97,10 +97,10 @@
     "url": "https://proships.ru",
     "icon": "https://favicons.githubusercontent.com/proships.ru",
     "slug": "proships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
@@ -108,7 +108,9 @@
     "timeWeek": 1112,
     "timeMonth": 1012,
     "timeYear": 1012,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 1
+    }
   },
   {
     "name": "blog.worldofwarships.com",
