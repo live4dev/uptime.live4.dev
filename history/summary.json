@@ -97,19 +97,19 @@
     "url": "https://proships.ru",
     "icon": "https://favicons.githubusercontent.com/proships.ru",
     "slug": "proships-ru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 887,
-    "timeWeek": 1112,
-    "timeMonth": 1012,
-    "timeYear": 1012,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1001,
+    "timeDay": 874,
+    "timeWeek": 1081,
+    "timeMonth": 1001,
+    "timeYear": 1001,
     "dailyMinutesDown": {
-      "2022-05-01": 1
+      "2022-05-01": 90
     }
   },
   {
