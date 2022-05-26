@@ -104,7 +104,28 @@ sites:
     url: https://shop.worldofwarships.asia/
     headers:
       - "User-Agent: Safari/537.36 WOWS/1.0"    
-
+# cn
+  - name: wowsgame.cn
+    url: https://wowsgame.cn
+    maxResponseTime: 5000
+  - name: clans.wowsgame.cn
+    url: https://clans.wowsgame.cn
+    maxResponseTime: 5000
+  - name: armory.wowsgame.cn
+    url: https://armory.wowsgame.cn
+    maxResponseTime: 5000
+  - name: dockyard.wowsgame.cn
+    url: https://dockyard.wowsgame.cn
+    maxResponseTime: 5000
+  - name: logbook.wowsgame.cn
+    url: https://logbook.wowsgame.cn
+    maxResponseTime: 5000
+  - name: friends.wowsgame.cn
+    url: https://friends.wowsgame.cn/en/about
+    maxResponseTime: 5000
+  - name: warehouse.wowsgame.cn
+    url: https://warehouse.wowsgame.cn
+    maxResponseTime: 5000
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
