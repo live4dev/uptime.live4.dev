@@ -103,9 +103,7 @@ sites:
   - name: shop.worldofwarships.asia
     url: https://shop.worldofwarships.asia/
     headers:
-      - "User-Agent: Safari/537.36 WOWS/1.0"
-      
-      
+      - "User-Agent: Safari/537.36 WOWS/1.0"    
 # cn
   - name: wowsgame.cn
     url: https://wowsgame.cn
@@ -115,18 +113,12 @@ sites:
     url: https://armory.wowsgame.cn
   - name: dockyard.wowsgame.cn
     url: https://dockyard.wowsgame.cn
-  - name: forum.wowsgame.cn
-    url: https://forum.wowsgame.cn
   - name: logbook.wowsgame.cn
     url: https://logbook.wowsgame.cn
   - name: friends.wowsgame.cn
     url: https://friends.wowsgame.cn/en/about
   - name: warehouse.wowsgame.cn
     url: https://warehouse.wowsgame.cn
-  - name: shop.wowsgame.cn
-    url: https://shop.wowsgame.cn/
-    headers:
-      - "User-Agent: Safari/537.36 WOWS/1.0"
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
