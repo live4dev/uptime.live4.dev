@@ -174,11 +174,11 @@
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.ru",
     "slug": "armory-worldofwarships-ru",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1234,
     "timeDay": 1391,
     "timeWeek": 1299,
@@ -283,9 +283,9 @@
     "url": "https://shop.worldofwarships.ru/",
     "icon": "https://favicons.githubusercontent.com/shop.worldofwarships.ru",
     "slug": "shop-worldofwarships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -295,6 +295,7 @@
     "timeMonth": 893,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2022-05-31": 1,
       "2022-05-26": 16
     }
   },
