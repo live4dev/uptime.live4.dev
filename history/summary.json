@@ -157,7 +157,7 @@
     "status": "up",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.34%",
+    "uptimeWeek": "98.40%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.53%",
     "time": 1563,
@@ -307,18 +307,18 @@
     "icon": "https://favicons.githubusercontent.com/worldofwarships.com",
     "slug": "worldofwarships-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 1223,
     "timeWeek": 581,
     "timeMonth": 298,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-06-07": 1
+      "2022-06-07": 7
     }
   },
   {
@@ -472,19 +472,19 @@
     "url": "https://worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/worldofwarships.eu",
     "slug": "worldofwarships-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 1118,
-    "timeWeek": 677,
-    "timeMonth": 682,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 639,
+    "timeDay": 907,
+    "timeWeek": 655,
+    "timeMonth": 676,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 7
     }
   },
   {
