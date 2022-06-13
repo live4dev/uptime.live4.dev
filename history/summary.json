@@ -159,11 +159,11 @@
     "icon": "https://favicons.githubusercontent.com/clans.worldofwarships.ru",
     "slug": "clans-worldofwarships-ru",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1598,
     "timeDay": 2027,
     "timeWeek": 1910,
@@ -335,19 +335,17 @@
     "icon": "https://favicons.githubusercontent.com/clans.worldofwarships.com",
     "slug": "clans-worldofwarships-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 942,
     "timeWeek": 864,
     "timeMonth": 716,
     "timeYear": 760,
-    "dailyMinutesDown": {
-      "2022-06-12": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "armory.worldofwarships.com",
@@ -355,18 +353,17 @@
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.com",
     "slug": "armory-worldofwarships-com",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.79%",
     "time": 322,
     "timeDay": 468,
     "timeWeek": 377,
     "timeMonth": 310,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2022-06-12": 7,
       "2022-05-18": 163
     }
   },
@@ -394,19 +391,17 @@
     "icon": "https://favicons.githubusercontent.com/forum.worldofwarships.com",
     "slug": "forum-worldofwarships-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 461,
     "timeDay": 460,
     "timeWeek": 503,
     "timeMonth": 422,
     "timeYear": 461,
-    "dailyMinutesDown": {
-      "2022-06-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "logbook.worldofwarships.com",
@@ -414,19 +409,17 @@
     "icon": "https://favicons.githubusercontent.com/logbook.worldofwarships.com",
     "slug": "logbook-worldofwarships-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 321,
     "timeWeek": 284,
     "timeMonth": 224,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2022-06-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "friends.worldofwarships.com",
