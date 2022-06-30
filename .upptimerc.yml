@@ -9,13 +9,6 @@ sites:
   - name: uptime.live4.dev
     url: uptime.live4.dev
 
-  - name: ritasneki.ru
-    url: https://ritasneki.ru/
-  - name: live4.dev
-    url: https://live4.dev
-  - name: cv.live4.dev
-    url: https://cv.live4.dev
-    
   - name: navyfilms.tv
     url: https://navyfilms.tv
   - name: proships.ru
