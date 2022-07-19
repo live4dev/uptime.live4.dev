@@ -26,18 +26,19 @@
     "url": "https://navyfilms.tv",
     "icon": "https://favicons.githubusercontent.com/navyfilms.tv",
     "slug": "navyfilms-tv",
-    "status": "up",
-    "uptime": "96.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.63%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "90.13%",
-    "uptimeYear": "96.62%",
-    "time": 751,
-    "timeDay": 585,
-    "timeWeek": 767,
-    "timeMonth": 745,
-    "timeYear": 751,
+    "uptimeYear": "96.63%",
+    "time": 747,
+    "timeDay": 505,
+    "timeWeek": 724,
+    "timeMonth": 734,
+    "timeYear": 747,
     "dailyMinutesDown": {
+      "2022-07-19": 2,
       "2022-06-25": 1009,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
@@ -52,11 +53,11 @@
     "icon": "https://favicons.githubusercontent.com/proships.ru",
     "slug": "proships-ru",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 1243,
     "timeDay": 1462,
     "timeWeek": 1904,
@@ -504,10 +505,10 @@
     "url": "https://dockyard.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/dockyard.worldofwarships.eu",
     "slug": "dockyard-worldofwarships-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 475,
@@ -515,7 +516,9 @@
     "timeWeek": 451,
     "timeMonth": 398,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 2
+    }
   },
   {
     "name": "logbook.worldofwarships.eu",
@@ -540,10 +543,10 @@
     "url": "https://friends.worldofwarships.eu/en/about",
     "icon": "https://favicons.githubusercontent.com/friends.worldofwarships.eu",
     "slug": "friends-worldofwarships-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
@@ -551,17 +554,19 @@
     "timeWeek": 595,
     "timeMonth": 566,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 1
+    }
   },
   {
     "name": "warehouse.worldofwarships.eu",
     "url": "https://warehouse.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/warehouse.worldofwarships.eu",
     "slug": "warehouse-worldofwarships-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
@@ -569,7 +574,9 @@
     "timeWeek": 466,
     "timeMonth": 438,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 1
+    }
   },
   {
     "name": "shop.worldofwarships.eu",
