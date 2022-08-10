@@ -137,10 +137,10 @@
     "url": "https://armory.worldofwarships.ru",
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.ru",
     "slug": "armory-worldofwarships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.69%",
     "time": 1178,
@@ -149,7 +149,7 @@
     "timeMonth": 1166,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2022-08-10": 100,
+      "2022-08-10": 101,
       "2022-07-13": 87,
       "2022-06-15": 50,
       "2022-05-18": 256
@@ -276,10 +276,10 @@
     "url": "https://worldofwarships.com",
     "icon": "https://favicons.githubusercontent.com/worldofwarships.com",
     "slug": "worldofwarships-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 291,
@@ -288,6 +288,7 @@
     "timeMonth": 289,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2022-08-10": 1,
       "2022-06-07": 54
     }
   },
@@ -314,10 +315,10 @@
     "url": "https://armory.worldofwarships.com",
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.com",
     "slug": "armory-worldofwarships-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.79%",
     "time": 363,
@@ -326,6 +327,7 @@
     "timeMonth": 394,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2022-08-10": 1,
       "2022-07-13": 96,
       "2022-06-15": 72,
       "2022-05-18": 163
@@ -485,10 +487,10 @@
     "url": "https://armory.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.eu",
     "slug": "armory-worldofwarships-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.73%",
     "time": 726,
@@ -497,6 +499,7 @@
     "timeMonth": 793,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2022-08-10": 1,
       "2022-07-14": 110,
       "2022-06-16": 92,
       "2022-05-19": 239
@@ -565,10 +568,10 @@
     "url": "https://warehouse.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/warehouse.worldofwarships.eu",
     "slug": "warehouse-worldofwarships-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 429,
@@ -577,6 +580,7 @@
     "timeMonth": 431,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2022-08-10": 1,
       "2022-07-19": 16
     }
   },
@@ -603,10 +607,10 @@
     "url": "https://worldofwarships.asia",
     "icon": "https://favicons.githubusercontent.com/worldofwarships.asia",
     "slug": "worldofwarships-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1221,
@@ -615,6 +619,7 @@
     "timeMonth": 1230,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2022-08-10": 1,
       "2022-06-07": 74
     }
   },
@@ -738,10 +743,10 @@
     "url": "https://warehouse.worldofwarships.asia",
     "icon": "https://favicons.githubusercontent.com/warehouse.worldofwarships.asia",
     "slug": "warehouse-worldofwarships-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
@@ -749,7 +754,9 @@
     "timeWeek": 773,
     "timeMonth": 799,
     "timeYear": 762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-10": 1
+    }
   },
   {
     "name": "shop.worldofwarships.asia",
