@@ -642,19 +642,19 @@
     "url": "https://clans.worldofwarships.asia",
     "icon": "https://icons.duckduckgo.com/ip3/clans.worldofwarships.asia.ico",
     "slug": "clans-worldofwarships-asia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2494,
-    "timeDay": 2349,
-    "timeWeek": 2444,
-    "timeMonth": 2349,
-    "timeYear": 2494,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 2495,
+    "timeDay": 2471,
+    "timeWeek": 2463,
+    "timeMonth": 2357,
+    "timeYear": 2495,
     "dailyMinutesDown": {
-      "2022-10-09": 1
+      "2022-10-09": 21
     }
   },
   {
