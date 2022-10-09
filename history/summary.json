@@ -322,11 +322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/armory.worldofwarships.com.ico",
     "slug": "armory-worldofwarships-com",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 453,
     "timeDay": 817,
     "timeWeek": 683,
@@ -642,10 +642,10 @@
     "url": "https://clans.worldofwarships.asia",
     "icon": "https://icons.duckduckgo.com/ip3/clans.worldofwarships.asia.ico",
     "slug": "clans-worldofwarships-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2494,
@@ -653,7 +653,9 @@
     "timeWeek": 2444,
     "timeMonth": 2349,
     "timeYear": 2494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-09": 1
+    }
   },
   {
     "name": "armory.worldofwarships.asia",
