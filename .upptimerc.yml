@@ -18,22 +18,34 @@ sites:
 # ru
   - name: worldofwarships.ru
     url: https://worldofwarships.ru
-  - name: clans.worldofwarships.ru
-    url: https://clans.worldofwarships.ru
-  - name: armory.worldofwarships.ru
-    url: https://armory.worldofwarships.ru
-  - name: dockyard.worldofwarships.ru
-    url: https://dockyard.worldofwarships.ru
-  - name: forum.worldofwarships.ru
-    url: https://forum.worldofwarships.ru
-  - name: logbook.worldofwarships.ru
-    url: https://logbook.worldofwarships.ru
-  - name: friends.worldofwarships.ru
-    url: https://friends.worldofwarships.ru/ru/about
-  - name: warehouse.worldofwarships.ru
-    url: https://warehouse.worldofwarships.ru
-  - name: shop.worldofwarships.ru
-    url: https://shop.worldofwarships.ru/
+  - name: wiki.lesta.ru
+    url: https://wiki.lesta.ru
+  - name: tanki.su
+    url: https://tanki.su
+  - name: forum.tanki.su
+    url: https://forum.tanki.su
+  - name: lesta.ru
+    url: https://lesta.ru
+  - name: korabli.su
+    url: https://korabli.su
+  - name: clans.korabli.su
+    url: https://clans.korabli.su
+  - name: armory.korabli.su
+    url: https://armory.korabli.su
+  - name: dockyard.korabli.su
+    url: https://dockyard.korabli.su
+  - name: forum.korabli.su
+    url: https://forum.korabli.su
+  - name: logbook.korabli.su
+    url: https://logbook.korabli.su
+  - name: friends.korabli.su
+    url: https://friends.korabli.su/ru/about
+  - name: warehouse.korabli.su
+    url: https://warehouse.korabli.su
+  - name: blog.korabli.su
+    url: https://warehouse.korabli.su
+  - name: shop.korabli.su
+    url: https://shop.korabli.su/
     headers:
       - "User-Agent: Safari/537.36 WOWS/1.0"
 # us
