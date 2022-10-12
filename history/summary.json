@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lesta.ru.ico",
     "slug": "wiki-lesta-ru",
     "status": "down",
-    "uptime": "2.43%",
-    "uptimeDay": "2.43%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "2.43%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-12": 2
+      "2022-10-12": 163
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tanki.su.ico",
     "slug": "tanki-su",
     "status": "down",
-    "uptime": "2.04%",
-    "uptimeDay": "2.04%",
-    "uptimeWeek": "2.04%",
-    "uptimeMonth": "2.04%",
-    "uptimeYear": "2.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 774,
     "timeDay": 774,
     "timeWeek": 774,
     "timeMonth": 774,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2022-10-12": 2
+      "2022-10-12": 163
     }
   },
   {
@@ -230,19 +230,19 @@
     "url": "https://armory.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/armory.korabli.su.ico",
     "slug": "armory-korabli-su",
-    "status": "down",
-    "uptime": "7.44%",
-    "uptimeDay": "7.44%",
-    "uptimeWeek": "7.44%",
-    "uptimeMonth": "7.44%",
-    "uptimeYear": "7.44%",
-    "time": 5556,
-    "timeDay": 5556,
-    "timeWeek": 5556,
-    "timeMonth": 5556,
-    "timeYear": 5556,
+    "status": "up",
+    "uptime": "0.54%",
+    "uptimeDay": "0.54%",
+    "uptimeWeek": "0.54%",
+    "uptimeMonth": "0.54%",
+    "uptimeYear": "0.54%",
+    "time": 3859,
+    "timeDay": 3859,
+    "timeWeek": 3859,
+    "timeMonth": 3859,
+    "timeYear": 3859,
     "dailyMinutesDown": {
-      "2022-10-12": 2
+      "2022-10-12": 162
     }
   },
   {
@@ -595,12 +595,12 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.87%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.69%",
     "time": 947,
     "timeDay": 1512,
-    "timeWeek": 1613,
+    "timeWeek": 1148,
     "timeMonth": 1407,
     "timeYear": 947,
     "dailyMinutesDown": {
