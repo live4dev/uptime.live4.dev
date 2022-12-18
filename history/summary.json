@@ -130,7 +130,7 @@
     "timeMonth": 1420,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-12-18": 1031,
+      "2022-12-18": 1044,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -341,19 +341,19 @@
     "url": "https://forum.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/forum.korabli.su.ico",
     "slug": "forum-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2094,
-    "timeDay": 11181,
-    "timeWeek": 4014,
-    "timeMonth": 2163,
-    "timeYear": 2094,
+    "time": 2185,
+    "timeDay": 10255,
+    "timeWeek": 4502,
+    "timeMonth": 2358,
+    "timeYear": 2185,
     "dailyMinutesDown": {
-      "2022-12-18": 17
+      "2022-12-18": 18
     }
   },
   {
