@@ -130,7 +130,7 @@
     "timeMonth": 1420,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-12-18": 1020,
+      "2022-12-18": 1031,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -245,19 +245,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lesta.ru.ico",
     "slug": "lesta-ru",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1498,
     "timeDay": 3665,
     "timeWeek": 1998,
     "timeMonth": 1623,
     "timeYear": 1498,
-    "dailyMinutesDown": {
-      "2022-12-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "korabli.su",
@@ -343,19 +341,19 @@
     "url": "https://forum.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/forum.korabli.su.ico",
     "slug": "forum-korabli-su",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1819,
-    "timeDay": 1507,
-    "timeWeek": 1609,
-    "timeMonth": 1540,
-    "timeYear": 1819,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2094,
+    "timeDay": 11181,
+    "timeWeek": 4014,
+    "timeMonth": 2163,
+    "timeYear": 2094,
     "dailyMinutesDown": {
-      "2022-12-18": 6
+      "2022-12-18": 17
     }
   },
   {
