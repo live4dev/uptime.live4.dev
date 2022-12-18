@@ -99,9 +99,9 @@
     "slug": "worldofwarships-ru",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1191,
     "timeDay": 2735,
@@ -109,7 +109,6 @@
     "timeMonth": 1942,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2022-12-18": 6,
       "2022-07-13": 21,
       "2022-06-10": 17
     }
@@ -131,7 +130,7 @@
     "timeMonth": 1420,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2022-12-18": 1057,
+      "2022-12-18": 1066,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -245,28 +244,30 @@
     "url": "https://lesta.ru",
     "icon": "https://icons.duckduckgo.com/ip3/lesta.ru.ico",
     "slug": "lesta-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1498,
     "timeDay": 3665,
     "timeWeek": 1998,
     "timeMonth": 1623,
     "timeYear": 1498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-18": 3
+    }
   },
   {
     "name": "korabli.su",
     "url": "https://korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
@@ -274,7 +275,9 @@
     "timeWeek": 655,
     "timeMonth": 704,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-18": 1
+    }
   },
   {
     "name": "clans.korabli.su",
@@ -343,18 +346,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.korabli.su.ico",
     "slug": "forum-korabli-su",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 2540,
     "timeDay": 14542,
     "timeWeek": 6792,
     "timeMonth": 3117,
     "timeYear": 2540,
     "dailyMinutesDown": {
-      "2022-12-18": 30
+      "2022-12-18": 17
     }
   },
   {
