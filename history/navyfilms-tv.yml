@@ -1,7 +1,7 @@
 url: https://navyfilms.tv
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2023-02-05T12:10:55.371Z
+status: down
+code: 503
+responseTime: 521
+lastUpdated: 2023-02-05T13:36:00.312Z
 startTime: Wed Apr 20 2022 11:18:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
