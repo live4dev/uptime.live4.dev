@@ -1186,19 +1186,19 @@
     "url": "https://shop.worldofwarships.asia/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.worldofwarships.asia.ico",
     "slug": "shop-worldofwarships-asia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1085,
-    "timeDay": 3269,
-    "timeWeek": 1583,
-    "timeMonth": 1118,
-    "timeYear": 1042,
+    "timeDay": 2483,
+    "timeWeek": 1509,
+    "timeMonth": 1112,
+    "timeYear": 1041,
     "dailyMinutesDown": {
-      "2023-07-28": 2,
+      "2023-07-28": 6,
       "2022-11-02": 78
     }
   }
