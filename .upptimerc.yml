@@ -9,8 +9,6 @@ sites:
   - name: uptime.live4.dev
     url: uptime.live4.dev
 
-  - name: navyfilms.tv
-    url: https://navyfilms.tv
   - name: proships.ru
     url: https://proships.ru
   - name: blog.worldofwarships.com
