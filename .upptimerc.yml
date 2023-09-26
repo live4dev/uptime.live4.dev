@@ -8,14 +8,16 @@ assignees:
 sites:
   - name: uptime.live4.dev
     url: uptime.live4.dev
-
+    
+# ru
   - name: proships.ru
     url: https://proships.ru
-  - name: blog.worldofwarships.com
-    url: https://blog.worldofwarships.com
-# ru
+  - name: korabli.su
+    url: https://korabli.su
   - name: worldofwarships.ru
     url: https://worldofwarships.ru
+    expectedStatusCodes:
+      - 403
   - name: wiki.lesta.ru
     url: https://wiki.lesta.ru
   - name: tanki.su
@@ -24,8 +26,8 @@ sites:
     url: https://forum.tanki.su
   - name: lesta.ru
     url: https://lesta.ru
-  - name: korabli.su
-    url: https://korabli.su
+  - name: lesta.ru/shop
+    url: https://lesta.ru/shop
   - name: clans.korabli.su
     url: https://clans.korabli.su
   - name: armory.korabli.su
@@ -53,6 +55,8 @@ sites:
     url: https://clans.worldofwarships.com
   - name: armory.worldofwarships.com
     url: https://armory.worldofwarships.com
+  - name: blog.worldofwarships.com
+    url: https://blog.worldofwarships.com
   - name: dockyard.worldofwarships.com
     url: https://dockyard.worldofwarships.com
   - name: forum.worldofwarships.com
