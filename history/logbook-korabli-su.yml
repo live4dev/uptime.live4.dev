@@ -1,7 +1,7 @@
 url: https://logbook.korabli.su
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2023-10-11T23:12:15.837Z
+status: down
+code: 504
+responseTime: 10846
+lastUpdated: 2023-10-12T07:35:20.503Z
 startTime: 2022-10-12T04:53:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
