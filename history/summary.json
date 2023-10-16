@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lesta.ru.ico",
     "slug": "wiki-lesta-ru",
     "status": "down",
-    "uptime": "79.76%",
+    "uptime": "79.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.60%",
+    "uptimeYear": "80.75%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
@@ -275,10 +275,10 @@
     "url": "https://lesta.ru/shop",
     "icon": "https://icons.duckduckgo.com/ip3/lesta.ru.ico",
     "slug": "lesta-ru-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
@@ -286,7 +286,9 @@
     "timeWeek": 486,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 1
+    }
   },
   {
     "name": "clans.korabli.su",
