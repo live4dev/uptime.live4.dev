@@ -24,8 +24,8 @@ sites:
     url: https://tanki.su
   - name: forum.tanki.su
     url: https://forum.tanki.su
-  - name: lesta.ru
-    url: https://lesta.ru
+  # - name: lesta.ru
+  #   url: https://lesta.ru
   - name: lesta.ru/shop
     url: https://lesta.ru/shop
   - name: clans.korabli.su
