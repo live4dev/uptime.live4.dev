@@ -14,10 +14,10 @@ sites:
     url: https://proships.ru
   - name: korabli.su
     url: https://korabli.su
-  - name: worldofwarships.ru
-    url: https://worldofwarships.ru
-    expectedStatusCodes:
-      - 403
+  # - name: worldofwarships.ru
+  #  url: https://worldofwarships.ru
+  #  expectedStatusCodes:
+  #    - 403
   - name: wiki.lesta.ru
     url: https://wiki.lesta.ru
   - name: tanki.su
