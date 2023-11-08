@@ -1,7 +1,7 @@
 url: https://shop.worldofwarships.com/
-status: down
-code: 500
-responseTime: 5333
-lastUpdated: 2023-11-08T15:26:13.615Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2023-11-08T15:33:22.394Z
 startTime: 2022-04-20T11:19:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
