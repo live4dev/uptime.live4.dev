@@ -14,7 +14,7 @@
     "timeDay": 200,
     "timeWeek": 145,
     "timeMonth": 147,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2023-01-10": 20
     }
@@ -34,7 +34,7 @@
     "timeDay": 2351,
     "timeWeek": 2056,
     "timeMonth": 1980,
-    "timeYear": 2053,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2023-04-24": 18,
       "2023-04-05": 490,
@@ -60,7 +60,7 @@
     "timeDay": 1754,
     "timeWeek": 1121,
     "timeMonth": 1147,
-    "timeYear": 1150,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2023-10-05": 48,
       "2023-03-30": 16,
@@ -84,7 +84,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1504,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2022-12-25": 1216,
       "2022-12-24": 1440,
@@ -116,7 +116,7 @@
     "timeDay": 1689,
     "timeWeek": 2711,
     "timeMonth": 1850,
-    "timeYear": 1540,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2023-12-08": 18,
       "2023-09-08": 16,
@@ -142,7 +142,7 @@
     "timeDay": 2270,
     "timeWeek": 1631,
     "timeMonth": 1584,
-    "timeYear": 1398,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2023-01-26": 392,
       "2023-01-25": 918,
@@ -154,19 +154,19 @@
     "url": "https://lesta.ru/shop",
     "icon": "https://icons.duckduckgo.com/ip3/lesta.ru.ico",
     "slug": "lesta-ru-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
-    "time": 2340,
-    "timeDay": 2240,
-    "timeWeek": 2696,
-    "timeMonth": 3256,
-    "timeYear": 2340,
+    "time": 2369,
+    "timeDay": 2740,
+    "timeWeek": 2855,
+    "timeMonth": 3302,
+    "timeYear": 2369,
     "dailyMinutesDown": {
-      "2023-12-12": 19,
+      "2023-12-12": 27,
       "2023-11-30": 38,
       "2023-11-29": 3,
       "2023-10-17": 23
@@ -187,7 +187,7 @@
     "timeDay": 2989,
     "timeWeek": 2306,
     "timeMonth": 2323,
-    "timeYear": 2392,
+    "timeYear": 2393,
     "dailyMinutesDown": {
       "2023-07-12": 18,
       "2023-07-01": 16,
@@ -215,7 +215,7 @@
     "timeDay": 3042,
     "timeWeek": 2475,
     "timeMonth": 2727,
-    "timeYear": 2687,
+    "timeYear": 2677,
     "dailyMinutesDown": {
       "2023-12-06": 153,
       "2023-11-08": 124,
@@ -274,7 +274,7 @@
     "timeDay": 2553,
     "timeWeek": 1818,
     "timeMonth": 1558,
-    "timeYear": 1949,
+    "timeYear": 1950,
     "dailyMinutesDown": {
       "2023-03-19": 32,
       "2023-01-26": 392,
@@ -318,7 +318,7 @@
     "timeDay": 1359,
     "timeWeek": 1239,
     "timeMonth": 1186,
-    "timeYear": 1129,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2022-12-22": 24
@@ -339,7 +339,7 @@
     "timeDay": 1158,
     "timeWeek": 1002,
     "timeMonth": 999,
-    "timeYear": 943,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2023-02-15": 35,
       "2023-01-26": 392,
@@ -391,7 +391,7 @@
     "timeDay": 1273,
     "timeWeek": 1153,
     "timeMonth": 1143,
-    "timeYear": 1223,
+    "timeYear": 1224,
     "dailyMinutesDown": {
       "2023-02-21": 197,
       "2023-01-26": 392,
@@ -471,7 +471,7 @@
     "timeDay": 1045,
     "timeWeek": 1020,
     "timeMonth": 1067,
-    "timeYear": 861,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2023-12-06": 159,
       "2023-11-08": 85,
@@ -702,7 +702,7 @@
     "timeDay": 2526,
     "timeWeek": 1998,
     "timeMonth": 1994,
-    "timeYear": 1712,
+    "timeYear": 1713,
     "dailyMinutesDown": {
       "2023-12-07": 115,
       "2023-11-09": 121,
@@ -789,7 +789,7 @@
     "timeDay": 822,
     "timeWeek": 664,
     "timeMonth": 658,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2023-11-20": 34,
       "2023-01-25": 29,
@@ -857,7 +857,7 @@
     "timeDay": 1070,
     "timeWeek": 1284,
     "timeMonth": 1282,
-    "timeYear": 1208,
+    "timeYear": 1209,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-12-25": 1216,
@@ -881,7 +881,7 @@
     "timeDay": 2605,
     "timeWeek": 2358,
     "timeMonth": 2403,
-    "timeYear": 2322,
+    "timeYear": 2321,
     "dailyMinutesDown": {
       "2023-08-07": 17,
       "2023-01-25": 17,
@@ -906,7 +906,7 @@
     "timeDay": 2622,
     "timeWeek": 2693,
     "timeMonth": 2907,
-    "timeYear": 2647,
+    "timeYear": 2649,
     "dailyMinutesDown": {
       "2023-12-06": 145,
       "2023-11-08": 152,
@@ -1025,7 +1025,7 @@
     "timeDay": 823,
     "timeWeek": 959,
     "timeMonth": 972,
-    "timeYear": 1027,
+    "timeYear": 1026,
     "dailyMinutesDown": {}
   }
 ]
