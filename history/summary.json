@@ -79,7 +79,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.49%",
     "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
@@ -97,8 +97,7 @@
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
-      "2022-12-14": 1440,
-      "2022-12-13": 1440
+      "2022-12-14": 1440
     }
   },
   {
@@ -155,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lesta.ru.ico",
     "slug": "lesta-ru-shop",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.93%",
     "time": 2373,
     "timeDay": 2736,
     "timeWeek": 2846,
     "timeMonth": 3289,
     "timeYear": 2373,
     "dailyMinutesDown": {
-      "2023-12-12": 24,
+      "2023-12-12": 18,
       "2023-11-30": 38,
       "2023-11-29": 3,
       "2023-10-17": 23
