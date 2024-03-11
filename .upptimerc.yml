@@ -20,14 +20,14 @@ sites:
   #    - 403
   - name: wiki.lesta.ru
     url: https://wiki.lesta.ru
-  - name: tanki.su
-    url: https://tanki.su
+  # - name: tanki.su
+  #   url: https://tanki.su
   - name: forum.tanki.su
     url: https://forum.tanki.su
   # - name: lesta.ru
   #   url: https://lesta.ru
-  - name: lesta.ru/shop
-    url: https://lesta.ru/shop
+  # - name: lesta.ru/shop
+  #   url: https://lesta.ru/shop
   - name: clans.korabli.su
     url: https://clans.korabli.su
   - name: armory.korabli.su
