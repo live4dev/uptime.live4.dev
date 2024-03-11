@@ -67,6 +67,8 @@ sites:
     url: https://friends.worldofwarships.com/en/about
   - name: warehouse.worldofwarships.com
     url: https://warehouse.worldofwarships.com
+    expectedStatusCodes:
+      - 403
   - name: shop.worldofwarships.com
     url: https://shop.worldofwarships.com/
     headers:
@@ -86,6 +88,8 @@ sites:
     url: https://friends.worldofwarships.eu/en/about
   - name: warehouse.worldofwarships.eu
     url: https://warehouse.worldofwarships.eu
+    expectedStatusCodes:
+      - 403
   - name: shop.worldofwarships.eu
     url: https://shop.worldofwarships.eu/
     headers:
@@ -107,6 +111,8 @@ sites:
     url: https://friends.worldofwarships.asia/en/about
   - name: warehouse.worldofwarships.asia
     url: https://warehouse.worldofwarships.asia
+    expectedStatusCodes:
+      - 403
   - name: shop.worldofwarships.asia
     url: https://shop.worldofwarships.asia/
     headers:
