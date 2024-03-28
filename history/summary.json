@@ -371,9 +371,9 @@
     "slug": "blog-worldofwarships-com",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.20%",
     "time": 768,
     "timeDay": 728,
@@ -381,7 +381,7 @@
     "timeMonth": 711,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-03-28": 5,
+      "2024-03-28": 22,
       "2023-06-24": 20,
       "2023-04-30": 16,
       "2023-04-29": 1141,
@@ -453,7 +453,7 @@
     "uptime": "90.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.40%",
+    "uptimeMonth": "61.44%",
     "uptimeYear": "83.30%",
     "time": 223,
     "timeDay": 225,
@@ -550,17 +550,17 @@
     "slug": "worldofwarships-eu",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 705,
     "timeDay": 473,
     "timeWeek": 620,
     "timeMonth": 520,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-03-28": 5,
+      "2024-03-28": 22,
       "2023-11-20": 34,
       "2023-07-25": 26
     }
@@ -572,9 +572,9 @@
     "slug": "clans-worldofwarships-eu",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1402,
     "timeDay": 1220,
@@ -582,7 +582,7 @@
     "timeMonth": 1306,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2024-03-28": 4,
+      "2024-03-28": 22,
       "2023-10-12": 33
     }
   },
@@ -593,9 +593,9 @@
     "slug": "armory-worldofwarships-eu",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.70%",
     "time": 1714,
     "timeDay": 1734,
@@ -603,7 +603,7 @@
     "timeMonth": 1990,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2024-03-28": 4,
+      "2024-03-28": 21,
       "2024-03-14": 102,
       "2024-02-08": 130,
       "2024-01-29": 26,
@@ -628,10 +628,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dockyard.worldofwarships.eu.ico",
     "slug": "dockyard-worldofwarships-eu",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.51%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 376,
@@ -639,7 +639,7 @@
     "timeMonth": 455,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-03-28": 3
+      "2024-03-28": 21
     }
   },
   {
@@ -649,9 +649,9 @@
     "slug": "logbook-worldofwarships-eu",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 502,
@@ -659,7 +659,7 @@
     "timeMonth": 451,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2024-03-28": 3
+      "2024-03-28": 20
     }
   },
   {
@@ -669,9 +669,9 @@
     "slug": "friends-worldofwarships-eu",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 662,
     "timeDay": 476,
@@ -679,7 +679,7 @@
     "timeMonth": 564,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-03-28": 2,
+      "2024-03-28": 20,
       "2023-11-20": 34
     }
   },
@@ -688,19 +688,19 @@
     "url": "https://warehouse.worldofwarships.eu",
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.eu.ico",
     "slug": "warehouse-worldofwarships-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "91.36%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "61.40%",
     "uptimeYear": "83.49%",
     "time": 479,
-    "timeDay": 347,
-    "timeWeek": 434,
-    "timeMonth": 413,
-    "timeYear": 489,
+    "timeDay": 480,
+    "timeWeek": 456,
+    "timeMonth": 419,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-03-28": 2,
+      "2024-03-28": 18,
       "2024-03-11": 506,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -771,9 +771,9 @@
     "slug": "shop-worldofwarships-eu",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 476,
@@ -781,7 +781,7 @@
     "timeMonth": 574,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-03-28": 2
+      "2024-03-28": 19
     }
   },
   {
@@ -921,7 +921,7 @@
     "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.40%",
+    "uptimeMonth": "61.44%",
     "uptimeYear": "83.41%",
     "time": 784,
     "timeDay": 1124,
