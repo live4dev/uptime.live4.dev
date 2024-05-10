@@ -22,10 +22,10 @@
     "url": "https://proships.ru",
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2041,
@@ -34,6 +34,7 @@
     "timeMonth": 1873,
     "timeYear": 2025,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-01-02": 56
     }
   },
@@ -176,9 +177,9 @@
     "slug": "forum-korabli-su",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1795,
     "timeDay": 1483,
@@ -186,7 +187,6 @@
     "timeMonth": 1659,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2024-05-10": 7,
       "2024-03-12": 36
     }
   },
