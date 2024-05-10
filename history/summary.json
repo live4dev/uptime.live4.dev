@@ -22,18 +22,19 @@
     "url": "https://proships.ru",
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 2041,
+    "time": 2040,
     "timeDay": 1504,
     "timeWeek": 1811,
     "timeMonth": 1856,
     "timeYear": 2024,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-01-02": 56
     }
   },
@@ -42,19 +43,19 @@
     "url": "https://korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1143,
-    "timeDay": 836,
-    "timeWeek": 911,
-    "timeMonth": 968,
-    "timeYear": 1125,
+    "timeDay": 808,
+    "timeWeek": 894,
+    "timeMonth": 962,
+    "timeYear": 1124,
     "dailyMinutesDown": {
-      "2024-05-10": 2,
+      "2024-05-10": 7,
       "2023-10-05": 48
     }
   },
@@ -233,18 +234,16 @@
     "slug": "warehouse-korabli-su",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 855,
     "timeWeek": 927,
     "timeMonth": 888,
     "timeYear": 974,
-    "dailyMinutesDown": {
-      "2024-05-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.korabli.su",
@@ -253,18 +252,16 @@
     "slug": "blog-korabli-su",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 125,
     "timeWeek": 137,
     "timeMonth": 142,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-05-10": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shop.korabli.su",
