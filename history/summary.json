@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lesta.ru.ico",
     "slug": "wiki-lesta-ru",
     "status": "down",
-    "uptime": "87.04%",
+    "uptime": "87.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -133,7 +133,7 @@
     "time": 2706,
     "timeDay": 2628,
     "timeWeek": 2559,
-    "timeMonth": 2658,
+    "timeMonth": 2724,
     "timeYear": 2850,
     "dailyMinutesDown": {
       "2024-03-13": 103,
@@ -230,10 +230,10 @@
     "url": "https://warehouse.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "warehouse-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
@@ -241,17 +241,19 @@
     "timeWeek": 924,
     "timeMonth": 887,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-10": 2
+    }
   },
   {
     "name": "blog.korabli.su",
     "url": "https://warehouse.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "blog-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
@@ -259,7 +261,9 @@
     "timeWeek": 140,
     "timeMonth": 142,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-10": 1
+    }
   },
   {
     "name": "shop.korabli.su",
@@ -303,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/clans.worldofwarships.com.ico",
     "slug": "clans-worldofwarships-com",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -324,12 +328,12 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 958,
     "timeDay": 944,
     "timeWeek": 967,
-    "timeMonth": 999,
+    "timeMonth": 1026,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2024-04-10": 142,
@@ -429,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.com.ico",
     "slug": "warehouse-worldofwarships-com",
     "status": "up",
-    "uptime": "91.40%",
+    "uptime": "91.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -894,7 +898,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.worldofwarships.asia.ico",
     "slug": "warehouse-worldofwarships-asia",
     "status": "up",
-    "uptime": "91.93%",
+    "uptime": "91.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
