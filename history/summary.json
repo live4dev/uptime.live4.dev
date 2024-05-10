@@ -22,10 +22,10 @@
     "url": "https://proships.ru",
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2037,
@@ -34,6 +34,7 @@
     "timeMonth": 1841,
     "timeYear": 2022,
     "dailyMinutesDown": {
+      "2024-05-10": 2,
       "2024-01-02": 56
     }
   },
@@ -126,9 +127,9 @@
     "slug": "armory-korabli-su",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 2716,
     "timeDay": 5337,
@@ -136,7 +137,6 @@
     "timeMonth": 2896,
     "timeYear": 2863,
     "dailyMinutesDown": {
-      "2024-05-10": 14,
       "2024-03-13": 103,
       "2024-02-14": 101,
       "2024-01-17": 164,
@@ -233,18 +233,16 @@
     "slug": "warehouse-korabli-su",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 2373,
     "timeWeek": 1425,
     "timeMonth": 1030,
     "timeYear": 986,
-    "dailyMinutesDown": {
-      "2024-05-10": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blog.korabli.su",
@@ -253,18 +251,16 @@
     "slug": "blog-korabli-su",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 146,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-05-10": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "shop.korabli.su",
