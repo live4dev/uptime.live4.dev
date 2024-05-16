@@ -177,9 +177,9 @@
     "slug": "forum-korabli-su",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1775,
     "timeDay": 1476,
@@ -187,7 +187,7 @@
     "timeMonth": 1603,
     "timeYear": 1660,
     "dailyMinutesDown": {
-      "2024-05-16": 1,
+      "2024-05-16": 5,
       "2024-03-12": 36
     }
   },
