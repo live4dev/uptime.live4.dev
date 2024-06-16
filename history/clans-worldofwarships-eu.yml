@@ -1,7 +1,7 @@
 url: https://clans.worldofwarships.eu
-status: up
-code: 200
-responseTime: 1410
-lastUpdated: 2024-06-15T23:13:52.643Z
+status: down
+code: 502
+responseTime: 661
+lastUpdated: 2024-06-16T21:39:02.019Z
 startTime: 2022-04-20T11:19:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
