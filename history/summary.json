@@ -24,9 +24,9 @@
     "slug": "proships-ru",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2039,
     "timeDay": 1691,
@@ -34,7 +34,7 @@
     "timeMonth": 1972,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2024-06-17": 4,
+      "2024-06-17": 19,
       "2024-01-02": 56
     }
   },
@@ -43,11 +43,11 @@
     "url": "https://korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1131,
     "timeDay": 789,
@@ -55,6 +55,7 @@
     "timeMonth": 984,
     "timeYear": 1101,
     "dailyMinutesDown": {
+      "2024-06-17": 6,
       "2023-10-05": 48
     }
   },
@@ -81,11 +82,11 @@
     "url": "https://forum.tanki.su",
     "icon": "https://icons.duckduckgo.com/ip3/forum.tanki.su.ico",
     "slug": "forum-tanki-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1373,
     "timeDay": 1157,
@@ -93,6 +94,7 @@
     "timeMonth": 1335,
     "timeYear": 1404,
     "dailyMinutesDown": {
+      "2024-06-17": 5,
       "2023-12-15": 37
     }
   },
@@ -103,9 +105,9 @@
     "slug": "clans-korabli-su",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 2399,
     "timeDay": 1888,
@@ -113,7 +115,7 @@
     "timeMonth": 2321,
     "timeYear": 2407,
     "dailyMinutesDown": {
-      "2024-06-17": 3,
+      "2024-06-17": 18,
       "2023-07-12": 18,
       "2023-07-01": 16,
       "2023-06-25": 15,
@@ -128,9 +130,9 @@
     "slug": "armory-korabli-su",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.72%",
     "time": 2726,
     "timeDay": 2377,
@@ -138,7 +140,7 @@
     "timeMonth": 2666,
     "timeYear": 2844,
     "dailyMinutesDown": {
-      "2024-06-17": 2,
+      "2024-06-17": 17,
       "2024-06-11": 151,
       "2024-05-15": 108,
       "2024-03-13": 103,
@@ -160,17 +162,17 @@
     "slug": "dockyard-korabli-su",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1250,
     "timeDay": 1120,
     "timeWeek": 1001,
     "timeMonth": 1193,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-06-17": 2,
+      "2024-06-17": 17,
       "2023-07-31": 20
     }
   },
@@ -179,11 +181,11 @@
     "url": "https://forum.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/forum.korabli.su.ico",
     "slug": "forum-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1761,
     "timeDay": 1477,
@@ -191,6 +193,7 @@
     "timeMonth": 1675,
     "timeYear": 1649,
     "dailyMinutesDown": {
+      "2024-06-17": 3,
       "2024-05-16": 59,
       "2024-03-12": 36
     }
@@ -202,9 +205,9 @@
     "slug": "logbook-korabli-su",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1056,
     "timeDay": 714,
@@ -212,7 +215,7 @@
     "timeMonth": 944,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-06-17": 1
+      "2024-06-17": 17
     }
   },
   {
@@ -220,10 +223,10 @@
     "url": "https://friends.korabli.su/ru/about",
     "icon": "https://icons.duckduckgo.com/ip3/friends.korabli.su.ico",
     "slug": "friends-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1144,
@@ -231,17 +234,19 @@
     "timeWeek": 1002,
     "timeMonth": 1075,
     "timeYear": 1143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-17": 2
+    }
   },
   {
     "name": "warehouse.korabli.su",
     "url": "https://warehouse.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "warehouse-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 956,
@@ -249,17 +254,19 @@
     "timeWeek": 875,
     "timeMonth": 975,
     "timeYear": 988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-17": 2
+    }
   },
   {
     "name": "blog.korabli.su",
     "url": "https://warehouse.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "blog-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
@@ -267,7 +274,9 @@
     "timeWeek": 139,
     "timeMonth": 147,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-17": 1
+    }
   },
   {
     "name": "shop.korabli.su",
@@ -276,9 +285,9 @@
     "slug": "shop-korabli-su",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1197,
     "timeDay": 1054,
@@ -286,7 +295,7 @@
     "timeMonth": 1057,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2024-06-17": 1
+      "2024-06-17": 16
     }
   },
   {
