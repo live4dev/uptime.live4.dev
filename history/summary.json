@@ -26,7 +26,7 @@
     "uptime": "97.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.26%",
+    "uptimeMonth": "34.25%",
     "uptimeYear": "94.50%",
     "time": 2016,
     "timeDay": 1798,
@@ -34,7 +34,7 @@
     "timeMonth": 2104,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2024-08-22": 72,
+      "2024-08-22": 78,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -249,7 +249,7 @@
     "timeMonth": 1242,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-08-22": 72,
+      "2024-08-22": 78,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -910,9 +910,9 @@
     "slug": "clans-worldofwarships-asia",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 2390,
     "timeDay": 2081,
@@ -920,7 +920,7 @@
     "timeMonth": 2482,
     "timeYear": 2414,
     "dailyMinutesDown": {
-      "2024-08-22": 1,
+      "2024-08-22": 7,
       "2024-06-17": 167,
       "2024-06-16": 141
     }
