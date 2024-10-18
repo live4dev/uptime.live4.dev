@@ -138,10 +138,10 @@
     "url": "https://clans.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/clans.korabli.su.ico",
     "slug": "clans-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 2467,
@@ -150,6 +150,7 @@
     "timeMonth": 2468,
     "timeYear": 2468,
     "dailyMinutesDown": {
+      "2024-10-18": 1,
       "2024-10-02": 41,
       "2024-06-17": 19
     }
