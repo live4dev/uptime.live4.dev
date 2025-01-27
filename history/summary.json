@@ -420,19 +420,20 @@
     "url": "https://worldofwarships.com",
     "icon": "https://icons.duckduckgo.com/ip3/worldofwarships.com.ico",
     "slug": "worldofwarships-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 477,
-    "timeWeek": 335,
-    "timeMonth": 260,
+    "timeDay": 331,
+    "timeWeek": 316,
+    "timeMonth": 258,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-01-26": 1
+      "2025-01-27": 54,
+      "2025-01-26": 3
     }
   },
   {
@@ -586,7 +587,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.85%",
+    "uptimeYear": "87.86%",
     "time": 227,
     "timeDay": 396,
     "timeWeek": 855,
@@ -635,8 +636,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -815,7 +815,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.85%",
+    "uptimeYear": "87.86%",
     "time": 474,
     "timeDay": 619,
     "timeWeek": 517,
@@ -865,8 +865,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
@@ -1043,7 +1042,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.85%",
+    "uptimeYear": "87.86%",
     "time": 807,
     "timeDay": 741,
     "timeWeek": 830,
@@ -1092,8 +1091,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   },
   {
