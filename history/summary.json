@@ -421,19 +421,19 @@
     "url": "https://worldofwarships.eu",
     "icon": "https://icons.duckduckgo.com/ip3/worldofwarships.eu.ico",
     "slug": "worldofwarships-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 624,
-    "timeWeek": 626,
-    "timeMonth": 590,
+    "timeDay": 577,
+    "timeWeek": 610,
+    "timeMonth": 587,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-02": 1
+      "2025-04-02": 24
     }
   },
   {
@@ -479,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dockyard.worldofwarships.eu.ico",
     "slug": "dockyard-worldofwarships-eu",
     "status": "down",
-    "uptime": "93.91%",
+    "uptime": "93.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,7 +490,7 @@
     "timeMonth": 1993,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-04-02": 1013,
+      "2025-04-02": 1037,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
