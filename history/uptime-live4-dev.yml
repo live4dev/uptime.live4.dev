@@ -1,7 +1,7 @@
 url: uptime.live4.dev
-status: up
-code: 200
-responseTime: 263
-lastUpdated: 2025-11-17T23:16:44.864Z
+status: down
+code: 500
+responseTime: 144
+lastUpdated: 2025-11-18T11:48:10.953Z
 startTime: 2022-04-20T11:18:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
