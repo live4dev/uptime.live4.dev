@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 2171,
     "dailyMinutesDown": {
-      "2026-08-23": 1132,
+      "2026-08-23": 1146,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -373,17 +373,17 @@
     "url": "https://forum.tanki.su",
     "icon": "https://icons.duckduckgo.com/ip3/forum.tanki.su.ico",
     "slug": "forum-tanki-su",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "85.33%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "95.96%",
+    "uptimeYear": "99.49%",
     "time": 1922,
-    "timeDay": 1804,
-    "timeWeek": 2211,
-    "timeMonth": 2199,
-    "timeYear": 2142,
+    "timeDay": 2014,
+    "timeWeek": 2225,
+    "timeMonth": 2204,
+    "timeYear": 2143,
     "dailyMinutesDown": {
       "2026-03-31": 243,
       "2026-04-01": 51,
@@ -402,7 +402,7 @@
       "2026-08-18": 818,
       "2026-08-20": 44,
       "2026-08-22": 29,
-      "2026-08-23": 32
+      "2026-08-23": 45
     }
   },
   {
@@ -414,7 +414,7 @@
     "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.19%",
+    "uptimeMonth": "69.22%",
     "uptimeYear": "83.40%",
     "time": 2448,
     "timeDay": 2327,
