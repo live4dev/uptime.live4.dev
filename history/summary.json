@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
     "status": "down",
-    "uptime": "78.99%",
+    "uptime": "78.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.77%",
+    "uptimeYear": "17.72%",
     "time": 2264,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2201,
     "dailyMinutesDown": {
-      "2026-09-02": 360,
+      "2026-09-02": 631,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -346,11 +346,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.89%",
+    "uptimeDay": "81.03%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.93%",
     "time": 951,
     "timeDay": 910,
     "timeWeek": 819,
@@ -358,7 +358,7 @@
     "timeYear": 943,
     "dailyMinutesDown": {
       "2026-04-08": 107,
-      "2026-09-02": 3
+      "2026-09-02": 273
     }
   },
   {
@@ -503,17 +503,17 @@
     "url": "https://armory.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/armory.korabli.su.ico",
     "slug": "armory-korabli-su",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.58%",
-    "time": 2832,
-    "timeDay": 2075,
-    "timeWeek": 3141,
-    "timeMonth": 3393,
-    "timeYear": 2854,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.53%",
+    "time": 2837,
+    "timeDay": 3025,
+    "timeWeek": 3339,
+    "timeMonth": 3436,
+    "timeYear": 2860,
     "dailyMinutesDown": {
       "2025-09-03": 147,
       "2025-10-01": 101,
@@ -528,7 +528,7 @@
       "2026-06-10": 251,
       "2026-07-08": 139,
       "2026-08-05": 501,
-      "2026-09-02": 2
+      "2026-09-02": 271
     }
   },
   {
@@ -575,11 +575,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logbook.korabli.su.ico",
     "slug": "logbook-korabli-su",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.96%",
+    "uptimeDay": "81.08%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.93%",
     "time": 1054,
     "timeDay": 1471,
     "timeWeek": 1437,
@@ -587,7 +587,7 @@
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-04-08": 107,
-      "2026-09-02": 2
+      "2026-09-02": 272
     }
   },
   {
@@ -596,11 +596,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/friends.korabli.su.ico",
     "slug": "friends-korabli-su",
     "status": "down",
-    "uptime": "94.40%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.39%",
+    "uptimeDay": "81.11%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.94%",
     "time": 1201,
     "timeDay": 706,
     "timeWeek": 1003,
@@ -608,7 +608,7 @@
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2026-08-18": 20,
-      "2026-09-02": 2
+      "2026-09-02": 272
     }
   },
   {
@@ -617,18 +617,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "warehouse-korabli-su",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.68%",
+    "uptimeDay": "81.13%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.95%",
     "time": 1035,
     "timeDay": 891,
     "timeWeek": 929,
     "timeMonth": 993,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-02": 1
+      "2026-09-02": 272
     }
   },
   {
@@ -637,18 +637,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "blog-korabli-su",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.68%",
+    "uptimeDay": "81.14%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.95%",
     "time": 255,
     "timeDay": 587,
     "timeWeek": 568,
     "timeMonth": 587,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-09-02": 1
+      "2026-09-02": 272
     }
   },
   {
@@ -656,22 +656,22 @@
     "url": "https://shop.korabli.su/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.korabli.su.ico",
     "slug": "shop-korabli-su",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.83%",
-    "time": 1463,
-    "timeDay": 2066,
-    "timeWeek": 3089,
-    "timeMonth": 3509,
-    "timeYear": 1588,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "81.22%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.78%",
+    "time": 1469,
+    "timeDay": 2722,
+    "timeWeek": 3194,
+    "timeMonth": 3524,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2026-06-10": 251,
       "2026-07-08": 139,
       "2026-08-05": 501,
-      "2026-09-02": 1
+      "2026-09-02": 270
     }
   },
   {
@@ -734,7 +734,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.30%",
+    "uptimeYear": "40.35%",
     "time": 1668,
     "timeDay": 594,
     "timeWeek": 569,
