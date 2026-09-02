@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
     "status": "down",
-    "uptime": "78.98%",
+    "uptime": "78.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.72%",
+    "uptimeYear": "17.67%",
     "time": 2264,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2201,
     "dailyMinutesDown": {
-      "2026-09-02": 631,
+      "2026-09-02": 879,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -346,11 +346,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "81.03%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.88%",
+    "uptimeDay": "63.80%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.88%",
     "time": 951,
     "timeDay": 910,
     "timeWeek": 819,
@@ -358,7 +358,7 @@
     "timeYear": 943,
     "dailyMinutesDown": {
       "2026-04-08": 107,
-      "2026-09-02": 273
+      "2026-09-02": 521
     }
   },
   {
@@ -575,11 +575,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logbook.korabli.su.ico",
     "slug": "logbook-korabli-su",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.95%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.88%",
     "time": 1054,
     "timeDay": 1471,
     "timeWeek": 1437,
@@ -587,7 +587,7 @@
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2026-04-08": 107,
-      "2026-09-02": 272
+      "2026-09-02": 521
     }
   },
   {
@@ -595,20 +595,20 @@
     "url": "https://friends.korabli.su/ru/about",
     "icon": "https://icons.duckduckgo.com/ip3/friends.korabli.su.ico",
     "slug": "friends-korabli-su",
-    "status": "down",
-    "uptime": "94.39%",
-    "uptimeDay": "81.11%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.94%",
-    "time": 1201,
-    "timeDay": 706,
-    "timeWeek": 1003,
-    "timeMonth": 1430,
-    "timeYear": 1211,
+    "status": "up",
+    "uptime": "94.37%",
+    "uptimeDay": "63.98%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.90%",
+    "time": 1200,
+    "timeDay": 730,
+    "timeWeek": 972,
+    "timeMonth": 1410,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2026-08-18": 20,
-      "2026-09-02": 272
+      "2026-09-02": 519
     }
   },
   {
@@ -617,18 +617,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "warehouse-korabli-su",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "81.13%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.67%",
+    "uptimeDay": "63.89%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.90%",
     "time": 1035,
     "timeDay": 891,
     "timeWeek": 929,
     "timeMonth": 993,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-02": 272
+      "2026-09-02": 520
     }
   },
   {
@@ -637,18 +637,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/warehouse.korabli.su.ico",
     "slug": "blog-korabli-su",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "81.14%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.67%",
+    "uptimeDay": "63.92%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.90%",
     "time": 255,
     "timeDay": 587,
     "timeWeek": 568,
     "timeMonth": 587,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-09-02": 272
+      "2026-09-02": 520
     }
   },
   {
@@ -734,7 +734,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.35%",
+    "uptimeYear": "40.40%",
     "time": 1668,
     "timeDay": 594,
     "timeWeek": 569,
