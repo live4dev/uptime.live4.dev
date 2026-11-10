@@ -1,7 +1,7 @@
 url: https://armory.worldofwarships.eu
-status: up
-code: 200
-responseTime: 2590
-lastUpdated: 2026-11-09T02:22:54.170Z
+status: down
+code: 503
+responseTime: 449
+lastUpdated: 2026-11-10T02:25:23.557Z
 startTime: 2022-04-20T11:19:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
