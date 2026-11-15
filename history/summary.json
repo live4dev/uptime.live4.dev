@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proships.ru.ico",
     "slug": "proships-ru",
     "status": "down",
-    "uptime": "75.49%",
+    "uptime": "75.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-15": 328,
+      "2026-11-15": 597,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
@@ -409,13 +409,13 @@
     "url": "https://korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/korabli.su.ico",
     "slug": "korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.25%",
-    "time": 989,
+    "time": 988,
     "timeDay": 1280,
     "timeWeek": 1208,
     "timeMonth": 1291,
@@ -450,7 +450,8 @@
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
-      "2026-09-02": 1082
+      "2026-09-02": 1082,
+      "2026-11-15": 1
     }
   },
   {
@@ -668,13 +669,13 @@
     "url": "https://logbook.korabli.su",
     "icon": "https://icons.duckduckgo.com/ip3/logbook.korabli.su.ico",
     "slug": "logbook-korabli-su",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.25%",
-    "time": 1213,
+    "time": 1214,
     "timeDay": 2043,
     "timeWeek": 1921,
     "timeMonth": 1985,
@@ -709,7 +710,8 @@
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
-      "2026-09-02": 1081
+      "2026-09-02": 1081,
+      "2026-11-15": 1
     }
   },
   {
@@ -917,7 +919,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.57%",
+    "uptimeYear": "60.62%",
     "time": 1453,
     "timeDay": 553,
     "timeWeek": 570,
