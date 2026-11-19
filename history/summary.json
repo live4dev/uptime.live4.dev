@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-19": 254,
+      "2026-11-19": 257,
       "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
@@ -479,7 +479,7 @@
     "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.58%",
+    "uptimeWeek": "79.56%",
     "uptimeMonth": "95.30%",
     "uptimeYear": "99.09%",
     "time": 2161,
@@ -509,7 +509,7 @@
       "2026-09-21": 51,
       "2026-09-20": 21,
       "2026-09-24": 22,
-      "2026-11-19": 254,
+      "2026-11-19": 257,
       "2026-11-18": 1440,
       "2026-11-17": 364
     }
@@ -840,24 +840,24 @@
     "url": "https://shop.korabli.su/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.korabli.su.ico",
     "slug": "shop-korabli-su",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.64%",
-    "time": 1855,
-    "timeDay": 0,
-    "timeWeek": 3306,
-    "timeMonth": 3312,
-    "timeYear": 2144,
+    "time": 1861,
+    "timeDay": 3479,
+    "timeWeek": 3330,
+    "timeMonth": 3317,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2026-06-10": 251,
       "2026-07-08": 139,
       "2026-08-05": 501,
       "2026-09-02": 270,
       "2026-10-28": 727,
-      "2026-11-19": 1
+      "2026-11-19": 3
     }
   },
   {
